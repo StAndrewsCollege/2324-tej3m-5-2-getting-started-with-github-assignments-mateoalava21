@@ -62,7 +62,7 @@ In this assignment, I was tasked with building the tallest standing structure, o
 
 - Uses idea from prototype 4, with four different cylinders all connected 
 - Uses idea from prototype 1, with a ribbon on the base and middle, and to connect the top 2 pieces
-- 
+  
 ## Conclusion
 
 - In conclusion, the paper tower challenge successfully pushed the height limits achievable with only paper
